@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: background
+    uniqueID: 1809937867
+    locked: 0
+  - name: paredes
+    uniqueID: 3867048947
+    locked: 0
+  - name: decoracao
+    uniqueID: 1459971009
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: plataformas
+    uniqueID: 745505037
     locked: 0
